@@ -1,0 +1,28 @@
+.nav_buttons{
+    display: inline-block;
+    padding: 15px;
+    background-color: cadetblue;
+}
+#nav{
+    background-color: bisque;
+}
+#left{
+    width: 29%;
+   float: left;
+    background-color: orange;
+    height: 1000px;
+}
+#right{
+    width: 70%;
+    float: left;
+    background-color: purple;
+    height: 1000px;
+}
+#top{
+    background-color: gray;
+    height: 250px;
+}
+#bottom{
+    background-color: blue;
+    height: 750px;
+}
